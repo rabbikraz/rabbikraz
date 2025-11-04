@@ -394,7 +394,7 @@
                     <a href="https://24six.app/preview/podcast/collection/11014/rabbi-krazs-shiurim" target="_blank">24Six</a>
                 </li>
                 <li class="platform-item">
-                    <img src="https://drive.google.com/uc?export=view&id=1p9xaYdqCkpwwZLa-sVsdXGd_AzND12Qm" alt="Castbox" class="platform-icon">
+                    <img src="https://raw.githubusercontent.com/rabbikraz/rabbikraz/d20a33a65559eaa97807dbac34df8093428de470/Castbox_logo.svg" alt="Castbox" class="platform-icon">
                     <a href="https://castbox.fm/channel/Rabbi-Kraz's-Shiurim-id5574479" target="_blank">Castbox</a>
                 </li>
             </ul>
